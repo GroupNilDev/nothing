@@ -1,0 +1,17 @@
+{
+	"geode": "5.1.0",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "groupnil.nothing",
+	"name": "Nothing",
+	"version": "v1.0.0",
+	"developer": "GroupNil",
+	"description": "This mod actually does nothing",
+	"dependencies": {
+		"geode.node-ids": ">=v1.20.0"
+	}
+}
